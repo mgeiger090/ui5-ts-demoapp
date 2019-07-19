@@ -1,0 +1,8 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "demoapp",
+    "namespace": "de.ndown",
+    "viewtype": "XML",
+    "viewname": "MainView"
+  }
+}

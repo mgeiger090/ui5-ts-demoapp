@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "rootDir": "src",
+      "module": "none",
+      "types": ["@openui5/ts-types"],
+      "outDir": "webapp"
+    }
+}
